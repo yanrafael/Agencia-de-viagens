@@ -1,0 +1,13 @@
+.body_props {
+    position: relative;
+    width: 450px;
+    height: auto;
+    background-color: aliceblue;
+    color: #333;
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    z-index: 2;
+}
